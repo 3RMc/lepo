@@ -2991,65 +2991,63 @@ button {
 .sandwich .sandwich-line--bottom {
   top: 29px;
 }
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 header {
-  height: 60px;
-  background: url("../img/general/head.jpg");
-  border-bottom: 4px solid #f9d38c;
-}
-.header-container {
-  height: inherit;
-  padding: auto 0;
-}
-.header-logo {
-  height: 60px;
-  background: url("../img/general/logo.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-.header-contacts {
-  margin: auto 0;
-  color: #fff;
-  font-size: 1.4em;
-}
-.icon-phone {
-  color: #f9d38c;
-  font-weight: bold;
-}
-.block1-container {
-  background: url("../img/content/block1-bg.jpg");
-  background-position: center;
-  height: 640px;
-  width: 100%;
-}
-.sd {
-  height: 100%;
-  width: 100%;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-direction: column;
       flex-direction: column;
+  width: 100%;
+}
+.header-about {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  width: inherit;
+  height: 40px;
+}
+.header-about .header-about__item {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+      flex-direction: row;
+  -ms-flex-align: center;
+      align-items: center;
+  background-color: #ff0;
+}
+.header-about .header-about__item .header-about__social-item {
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+.header-about .header-about__item .header-about__social-fb {
+  background: url("../img/content/fb_icon.png");
+}
+.header-about .header-about__item .header-about__social-yt {
+  background: url("../img/content/yt_icon.png");
+}
+.header-about .header-about__item .header-about__social-vk {
+  background: url("../img/content/vk_icon.png");
+}
+.header-about .header-about__item .header-about__social-ok {
+  background: url("../img/content/ok_icon.png");
+}
+.header-about .header-about__item .header-about__social-gp {
+  background: url("../img/content/g+_icon.png");
+}
+.header-about .header-about__item .header-about__social-skype {
+  background: url("../img/content/sk_icon.png");
+}
+.header-nav {
+  display: -ms-flexbox;
+  display: flex;
   -ms-flex-pack: distribute;
       justify-content: space-around;
   -ms-flex-align: center;
       align-items: center;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-}
-.block1-descriptor {
-  -ms-flex-preferred-size: 75px !important;
-      flex-basis: 75px !important;
-  width: 100%;
-  background-image: url("../img/content/block1-desctiptor.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-.contact-form {
-  height: 300px;
-  -ms-flex-preferred-size: 300px !important;
-      flex-basis: 300px !important;
+  width: inherit;
+  height: 40px;
 }
