@@ -3192,3 +3192,35 @@ header {
 .main_block2 .main_block2__items .main_block2__item .main_block2__image4 {
   background: url("../img/content/section2_img4.png");
 }
+.main_block3 {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  height: 575px;
+}
+.main_block3 .main_block3__title {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: center;
+      justify-content: center;
+  height: 30%;
+  font-size: 50px;
+  color: #6640b6;
+}
+.main_block3 .main_block3__slider {
+  height: 75%;
+  background: url("../img/content/slider_bg.jpg");
+}
+.main_block3 .main_block3__slider .main_block3__slider-image {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: right;
+      justify-content: right;
+  width: 40%;
+  height: 100%;
+}

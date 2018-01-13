@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef9f5adf-61b6-4f08-8137-34483491aeb0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/dev/index.html" afterPath="$PROJECT_DIR$/dev/index.html" />
-      <change beforePath="$PROJECT_DIR$/dev/pug/modules/header.pug" afterPath="$PROJECT_DIR$/dev/pug/modules/header.pug" />
       <change beforePath="$PROJECT_DIR$/dev/pug/pages/index.pug" afterPath="$PROJECT_DIR$/dev/pug/pages/index.pug" />
       <change beforePath="$PROJECT_DIR$/dev/static/css/main.css" afterPath="$PROJECT_DIR$/dev/static/css/main.css" />
       <change beforePath="$PROJECT_DIR$/dev/static/stylus/main.styl" afterPath="$PROJECT_DIR$/dev/static/stylus/main.styl" />
-      <change beforePath="$PROJECT_DIR$/dev/static/stylus/modules/_header.styl" afterPath="$PROJECT_DIR$/dev/static/stylus/modules/_header.styl" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,8 +69,8 @@
       <file leaf-file-name="main.styl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dev/static/stylus/main.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="210" column="6" lean-forward="false" selection-start-line="210" selection-start-column="6" selection-end-line="210" selection-end-column="6" />
+            <state relative-caret-position="500">
+              <caret line="245" column="27" lean-forward="false" selection-start-line="245" selection-start-column="27" selection-end-line="245" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -83,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/dev/pug/pages/index.pug">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="403">
-              <caret line="36" column="60" lean-forward="false" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+              <caret line="41" column="67" lean-forward="false" selection-start-line="41" selection-start-column="67" selection-end-line="41" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -290,12 +287,12 @@
       <workItem from="1515511188362" duration="5096000" />
       <workItem from="1515529396109" duration="10976000" />
       <workItem from="1515670144017" duration="13791000" />
-      <workItem from="1515775153854" duration="5743000" />
+      <workItem from="1515775153854" duration="8401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53942000" />
+    <option name="totallyTimeSpent" value="56600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -736,15 +733,15 @@
     <entry file="file://$PROJECT_DIR$/dev/pug/pages/index.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
-          <caret line="36" column="60" lean-forward="false" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+          <caret line="41" column="67" lean-forward="false" selection-start-line="41" selection-start-column="67" selection-end-line="41" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/static/stylus/main.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="210" column="6" lean-forward="false" selection-start-line="210" selection-start-column="6" selection-end-line="210" selection-end-column="6" />
+        <state relative-caret-position="500">
+          <caret line="245" column="27" lean-forward="false" selection-start-line="245" selection-start-column="27" selection-end-line="245" selection-end-column="27" />
           <folding />
         </state>
       </provider>
